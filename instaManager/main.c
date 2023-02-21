@@ -1,4 +1,11 @@
-/* Creator : Yağmur Saygılı / School Assigment */
+/* Creator : Yağmur Saygılı / School Assigment
+    
+    Main source code where the program runs.
+
+    Simple application to manage Instagram account.
+
+    Used objectives: Linked List, File Handling, Pointers
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
